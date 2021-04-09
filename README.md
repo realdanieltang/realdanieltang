@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Tang
-- 👀 My interest is Automatic Program Repair (APR), Code Representation, Text Detection and Generation, Dialogue Generation, X-GAN, NAS
-- 🌱 I'm Program Repair via Deep Learning skills
+- 👀 Current Research Directions: Automatic Program Repair (APR), Code Representation, Text Detection and Generation, Dialogue Generation, X-GAN, NAS
+- 🌱 I'm learning Program Repair via Deep Learning skills
 - 💞️ Luxembourg University, Snt
 - 📫 How to reach me: realdanieltang@gmail.com
 
